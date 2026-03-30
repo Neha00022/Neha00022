@@ -1,5 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Android+Developer;Production+Ready+Builder)
 # Hi 👋, I'm Neha Rajput
+![Profile views](https://komarev.com/ghpvc/?username=Neha00022&color=blue)
 
 ### 🚀 Web & Application Developer | Full-Stack Developer
 
@@ -23,26 +24,9 @@ Focused on **performance optimization, scalable backend systems, and clean UI/UX
 
 ## 🛠️ Tech Stack
 
-### 🚀 Frontend
-
-HTML | CSS | JavaScript | React
-
-### ⚙️ Backend
-
-Node.js | Express.js | Java
-
-### 🗄️ Database
-
-MySQL | Firebase
-
-### ☁️ Cloud & Tools
-
-AWS S3 | Git | GitHub | VS Code
-
-### 🔐 Other Skills
-
-Cyber Security | Prompt Engineering
-
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,mysql,firebase,aws" />
+</p>
 ---
 
 ## 💼 Experience
